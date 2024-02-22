@@ -1,0 +1,59 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "Juan Perez",
+      "nombre_usuario": "Juan-perez",
+      "edad": 25,
+      "ciudad": "Buenos Aires",
+      "pais": "Argentina",
+      "email": "juanperez@example.com",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP4iYe9rgWWDfEr2s0DhXvP_o8P_fi1Tcv3Q&usqp=CAU",
+      "descripcion_corta": "Mi nombre es Juan, me considero un apasionado de la tecnología y la música."
+    },
+    {
+      "id": 2,
+      "nombre": "Maria Rodriguez",
+      "nombre_usuario": "Avatar-blue",
+      "edad": 30,
+      "ciudad": "Madrid",
+      "pais": "España",
+      "email": "mariarodriguez@example.com",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIIUsEfwt8l1uBNYzemWHTdtdSTgCCSiJFEg&usqp=CAU",
+      "descripcion_corta": "¡Hola! Soy Maria, me encanta viajar y conocer nuevas culturas."
+    },
+    {
+      "id": 3,
+      "nombre": "Pedro Gomez",
+      "nombre_usuario": "Gothan-knight",
+      "edad": 28,
+      "ciudad": "Mexico City",
+      "pais": "Mexico",
+      "email": "pedrogomez@example.com",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9nup1kYGKTbpgguhczUdGwqWdtjIxiJTRSUWEDs534OTfiIU5cczVQQ-djKkSIxfGGmE&usqp=CAU",
+      "descripcion_corta": "¡Hola! Soy Pedro, un amante de la naturaleza y los deportes."
+    },
+    {
+      "id": 4,
+      "nombre": "Ana Martinez",
+      "nombre_usuario": "Jedi-master",
+      "edad": 22,
+      "ciudad": "Santiago",
+      "pais": "Chile",
+      "email": "anamartinez@example.com",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAzQQpZnRrlUksGOBJn914mBxbfPej4D2NwQ&usqp=CAU",
+      "descripcion_corta": "Soy Ana, me apasiona la ciencia ficcion y la fotografía."
+    },
+    {
+      "id": 5,
+      "nombre": "Luisa Fernandez",
+      "nombre_usuario": "Cyborg-Luisa",
+      "edad": 27,
+      "ciudad": "Bogota",
+      "pais": "Colombia",
+      "email": "luisafernandez@example.com",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVrvdz2-ykHJK9NfIkva_-loGhu_bV3LFaXv9Vriqr9W5pt-Q9quaL1BQpXarUnJi37G8&usqp=CAU",
+      "descripcion_corta": "¡Hola! Soy Luisa, me encanta leer y escribir."
+    }
+  ]
+}
